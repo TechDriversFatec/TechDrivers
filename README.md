@@ -17,7 +17,7 @@
 ## 🚀 Sobre o Projeto
   > **Status do projeto: Em Andamento**
   
-  <p align="justify">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularise</p>
+  <p align="justify">O projeto tem como objetivo automatizar a clonagem de repositórios de projetos anteriores e futuros desenvolvidos pelos alunos da Fatec. Com isso, além de conferir domínio desses repositórios à instituição por meio do GitHub, esses projetos serão armazenados e disponibilizados ao público em geral por meio de uma página web, que será administrada unicamente por profissionais ligados à Fatec e autorizados para tanto.</p>
   
   
   
