@@ -7,7 +7,6 @@
 #### Navegador
 * <a href="#sobre">Sobre</a><br>
 * <a href="#backlogs">Backlogs</a><br>
-* <a href="#userStorys">User Storys</a><br>
 * <a href="#prototipo">Protótipo</a><br>
 * <a href="#tecnologias">Técnologias</a><br>
 * <a href="#equipe">Equipe</a><br>
@@ -23,10 +22,10 @@
   
 | Sprint | Entrega	| Status | Histórico |
 | :-----: | :-----: | :-----: | :-----: |
-| 01 |  | Em Andamento | [ver relatório](/https://github.com/TechDriversFatec/TechDrivers/blob/main/Planejamento/Sprint1/README.md) |
-| 02 |  | Em Andamento | [ver relatório](/) |
-| 03 |  | Em Andamento | [ver relatório](/) |
-| 04 |  | Em Andamento | [ver relatório](/) |
+| 01 | 19/09/2021 | Completo | [Ver Relatório](/Planejamento/Sprint1/README.md) |
+| 02 | 10/10/2021 | Não Iniciado | [](/Planejamento/Sprint2/README.md) |
+| 03 | 07/11/2021 | Não Iniciado | [](/Planejamento/Sprint3/README.md) |
+| 04 | 28/11/2021 | Não Iniciado | [](/Planejamento/Sprint4/README.md) |
   
   → [Voltar ao topo](#topo)
   
@@ -36,43 +35,22 @@
 
   ### Backlog do Produto
   
+  ![sprints](https://user-images.githubusercontent.com/89143350/133858693-7a99ad4f-71c9-4473-b505-27e83282d677.png)
+
   
   ### Backlog das Sprints
-  
-  #### Sprint 1
-  | Tarefa | Status |
-  | :----- | :-----: |
-  | Levantamento de Requisitos | Completo |
-  | Criação do Prótotipo da págin em WEB | Completo |
-  | Criação do GitHub para a Instituição | Completo |
-  | Clonagem manual dos projetos de 2020 - 1 para o GitHub da Instituição | Completo |
-  
-  #### Sprint 2
-  | Tarefa | Status |
-  | :----- | :-----: |
-  | Automatização da clonagem de projetos |  |
-  | Criação da página WEB |  |
-  | Início da integração do BD com a página |  |
-  
-  #### Sprint 3 
-  | Tarefa | Status |
-  | :----- | :-----: |
-  | Automatização dos projetos futuros |  |
-  | Inserção de recursos e funcionalidades |  |
-  | Término da integração do BD com a página |  |
-  
-  #### Sprint 4
-  | Tarefa | Status |
-  | :----- | :-----: |
-  |Apresentação do Projeto Finalizado |  |
+<div align="center">
+
+![sprint1](https://user-images.githubusercontent.com/89143350/133858766-f47c20f3-074b-4ef6-89cb-92ff39a35e58.png)
+
+![Sprint2](https://user-images.githubusercontent.com/89143350/133858774-aad1d354-47f8-4fa5-b86c-cac4c51a88d3.png)
+
+![Sprint3](https://user-images.githubusercontent.com/89143350/133858786-d1b09557-9570-40e1-88b9-68871c934ccd.png)
+
+![Sprint4](https://user-images.githubusercontent.com/89143350/133858794-bf4d38a2-5260-4b86-8afe-1ffb78366d51.png)
+</div>
   
  → [Voltar ao topo](#topo)
-  
-<span id="userStorys">
-  
-## 🗓 User Storys
-  
-→ [Voltar ao topo](#topo)
   
 <span id="prototipo">
   
@@ -104,9 +82,9 @@
   
 |    Função    | Nome                            |                     GitHub                      |
 | :----------: | :------------------------------ | :----------------------------------------------:|
-| Scrum Master | Icaro Dell Osso Vaz de Carvalho | [GitHub](https://github.com/Mikkenz)            |
-|   Dev Team   | Juliana Gomes da Silva          |      [GitHub](https://github.com/JulianaGO)     |
+| Scrum Master | Icaro Dell Osso Vaz de Carvalho |    [GitHub](https://github.com/Mikkenz)         |
+|   Dev Team   | Juliana Gomes da Silva          |    [GitHub](https://github.com/JulianaGO)       |
 |   Dev Team   | Larissa Aparecida Diniz Silva   |    [GitHub](https://github.com/laaridiniz)      |
-|   Dev Team   | Luiza Ferreira Moreira          |      [GitHub](https://github.com/lluizaferreira)|
-|   Dev Team   | Victoria Marto Dias             |  [GitHub](https://github.com/DiasVitoria)       |
-|   Dev Team   | Yasmin Aparecida Viana          |   [GitHub](https://github.com/YasminVieira)     |
+|   Dev Team   | Luiza Ferreira Moreira          |    [GitHub](https://github.com/lluizaferreira)  |
+|   Dev Team   | Victoria Marto Dias             |    [GitHub](https://github.com/DiasVitoria)     |
+|   Dev Team   | Yasmin Aparecida Viana          |    [GitHub](https://github.com/YasminVieira)    |
