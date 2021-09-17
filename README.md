@@ -23,7 +23,7 @@
   
 | Sprint | Entrega	| Status | Histórico |
 | :-----: | :-----: | :-----: | :-----: |
-| 01 |  | Em Andamento | [ver relatório](/) |
+| 01 |  | Em Andamento | [ver relatório](/https://github.com/TechDriversFatec/TechDrivers/blob/main/Planejamento/Sprint1/README.md) |
 | 02 |  | Em Andamento | [ver relatório](/) |
 | 03 |  | Em Andamento | [ver relatório](/) |
 | 04 |  | Em Andamento | [ver relatório](/) |
