@@ -33,7 +33,7 @@ Nossos objetivos podem ser divididos, para essa primeira sprint, em três pontos
 
 # 📝Levantamento de Requisitos 
   
-<p align="justify">A nossa clonagem foi realizada por meio de comandos do Git. Usamos comandos para serem feitos os clones, para criarmos o arquivo em “.md” do “README”, para iniciarmos nosso clone no formato “.git” e para darmos o upload do clone para a pagina do github.
+<p align="justify">
 Para começarmos o projeto, primeiro tivemos que definir quais os objetivos, vontades e necessidades do nosso cliente. Por meio de conversas, nossa equipe manteve um bom relacionamento e conseguimos entender e objetificar o que o cliente estava querendo. Após as conversar fomos capazes de montar uma rota estratégica onde conseguimos definir o MVP do nosso cliente e todo o universo que envolveria o projeto para darmos inicio na nossa base onde nos forneceria o necessário para darmos continuidade no processo.</p>
   
 → [Voltar ao topo](#topo)
