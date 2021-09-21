@@ -97,4 +97,4 @@ Esse é o link para o nosso código que conseguimos desenvolver para essa primei
 |   Dev Team   | Larissa Aparecida Diniz Silva   |    [GitHub](https://github.com/laaridiniz)      |
 |   Dev Team   | Luiza Ferreira Moreira          |    [GitHub](https://github.com/lluizaferreira)  |
 |   Dev Team   | Victoria Marto Dias             |    [GitHub](https://github.com/DiasVitoria)     |
-|   Dev Team   | Yasmin Aparecida Viana          |    [GitHub](https://github.com/YasminVieira)    |
+|   Dev Team   | Yasmin Aparecida Viera          |    [GitHub](https://github.com/YasminVieira)    |
