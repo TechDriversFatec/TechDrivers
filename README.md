@@ -23,7 +23,7 @@
 | Sprint | Entrega	| Status | Histórico |
 | :-----: | :-----: | :-----: | :-----: |
 | 01 | 19/09/2021 | Completo | [Ver Relatório](/Planejamento/Sprint1/README.md) |
-| 02 | 10/10/2021 | Não Iniciado | [](/Planejamento/Sprint2/README.md) |
+| 02 | 10/10/2021 | Completo | [Ver Relatório](/Planejamento/Sprint2/README.md) |
 | 03 | 07/11/2021 | Não Iniciado | [](/Planejamento/Sprint3/README.md) |
 | 04 | 28/11/2021 | Não Iniciado | [](/Planejamento/Sprint4/README.md) |
   
@@ -35,19 +35,20 @@
 
   ### Backlog do Produto
   
-  ![sprints](https://user-images.githubusercontent.com/89143350/133858693-7a99ad4f-71c9-4473-b505-27e83282d677.png)
+  ![Sprints](https://user-images.githubusercontent.com/89143350/136666835-d2984727-37f2-45ea-82cf-e261ff57a8a9.jpeg)
 
   
   ### Backlog das Sprints
 <div align="center">
 
 ![sprint1](https://user-images.githubusercontent.com/89143350/133858766-f47c20f3-074b-4ef6-89cb-92ff39a35e58.png)
+  
+![Sprint2](https://user-images.githubusercontent.com/89143350/136666636-a0a97b0b-6360-4ca1-858f-f61bc0d43e00.png)
 
-![Sprint2](https://user-images.githubusercontent.com/89143350/133858774-aad1d354-47f8-4fa5-b86c-cac4c51a88d3.png)
+![Sprint3](https://user-images.githubusercontent.com/89143350/136666644-c6a22dea-6380-4a02-ad41-91c8193c21fe.png)
+  
+![Sprint4](https://user-images.githubusercontent.com/89143350/136666649-9cc07094-62c7-4c80-b8f7-cf55c33bf031.png)
 
-![Sprint3](https://user-images.githubusercontent.com/89143350/133858786-d1b09557-9570-40e1-88b9-68871c934ccd.png)
-
-![Sprint4](https://user-images.githubusercontent.com/89143350/133858794-bf4d38a2-5260-4b86-8afe-1ffb78366d51.png)
 </div>
   
  → [Voltar ao topo](#topo)
@@ -62,10 +63,6 @@ Nosso protótipo foi feito com a ferramenta Figma. Segue abaixo uma demonstraç�
 https://user-images.githubusercontent.com/89143350/133894617-4ffa7f5f-b4eb-4699-bc7e-901593411ca0.mov 
   
   
-Esse é o link para o nosso código que conseguimos desenvolver para essa primeira sprint
-[Link para código](/Front-End)
-
-
 → [Voltar ao topo](#topo)
   
 <span id="tecnologias">
