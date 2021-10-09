@@ -44,7 +44,7 @@ Nós focamos principalmente na parte de estudos para essa sprint, como nosso con
   
 <span id="raspagem">
 
-# Raspagem automática com Python
+# 🗃 Raspagem automática com Python
     
 <p align="justify">Para o código da raspagem dos dados foram utilizadas algumas bibliotecas do Python, usamos a “requests” e a “Beautiful Soup”.
 A requests permite que sejam enviadas solicitações em Python para a página HTTP, e com ela nós solicitamos o código do HTML das páginas da FATEC.
@@ -57,7 +57,7 @@ O código desenvolvido faz toda a raspagem automaticamente, percorrendo os sites
   
 <span id="site">
 
-# Site em HTML
+# 🖥 Site em HTML
   
 <p align="justify">Após ter construído um protótipo navegável, a 2ª sprint foi dedicada ao processo de codificação das páginas anteriormente idealizadas. Nesse momento, os designs construídos no Figma foram transformados em arquivos HTML e CSS, responsáveis pelas marcações e estilos das páginas.<br>
 A partir dessa codificação, o usuário irá conseguir interagir com a página web, acionando os menus e as páginas de cada curso, além de conseguir filtrar as pesquisas dos projetos por curso, ano, semestre e turma, respectivamente, conforme mostrado a seguir:</p>
