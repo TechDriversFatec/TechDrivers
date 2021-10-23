@@ -2,7 +2,7 @@
 
 <br id="topo">
 
-<h1 align="center">TechDrivers - FATEC São José Dos Campos - Prof. Jessen Vidal</h1>
+<h1 align="center">TechDrivers - FATEC São José dos Campos - Prof. Jessen Vidal</h1>
 
 #### Navegador
 * <a href="#sobre">Sobre</a><br>
@@ -25,7 +25,7 @@
 | 01 | 19/09/2021 | Completo | [Ver Relatório](/Planejamento/Sprint1/README.md) |
 | 02 | 10/10/2021 | Completo | [Ver Relatório](/Planejamento/Sprint2/README.md) |
 | 03 | 07/11/2021 | Em andamento | [](/Planejamento/Sprint3/README.md) |
-| 04 | 28/11/2021 | Não Iniciado | [](/Planejamento/Sprint4/README.md) |
+| 04 | 28/11/2021 | Não iniciado | [](/Planejamento/Sprint4/README.md) |
   
   → [Voltar ao topo](#topo)
   
