@@ -2,13 +2,13 @@
 
 <br id="topo">
 
-<h1 align="center">TechDrivers - FATEC São José Dos Campos - Profº Jessen Vidal</h1>
+<h1 align="center">TechDrivers - FATEC São José Dos Campos - Prof. Jessen Vidal</h1>
 
 #### Navegador
 * <a href="#sobre">Sobre</a><br>
 * <a href="#backlogs">Backlogs</a><br>
 * <a href="#prototipo">Protótipo</a><br>
-* <a href="#tecnologias">Técnologias</a><br>
+* <a href="#tecnologias">Tecnologias</a><br>
 * <a href="#equipe">Equipe</a><br>
 
 <span id="sobre">
@@ -24,7 +24,7 @@
 | :-----: | :-----: | :-----: | :-----: |
 | 01 | 19/09/2021 | Completo | [Ver Relatório](/Planejamento/Sprint1/README.md) |
 | 02 | 10/10/2021 | Completo | [Ver Relatório](/Planejamento/Sprint2/README.md) |
-| 03 | 07/11/2021 | Não Iniciado | [](/Planejamento/Sprint3/README.md) |
+| 03 | 07/11/2021 | Em andamento | [](/Planejamento/Sprint3/README.md) |
 | 04 | 28/11/2021 | Não Iniciado | [](/Planejamento/Sprint4/README.md) |
   
   → [Voltar ao topo](#topo)
@@ -67,7 +67,7 @@ https://user-images.githubusercontent.com/89143350/133894617-4ffa7f5f-b4eb-4699-
   
 <span id="tecnologias">
   
-## 💻 Técnologias Usadas
+## 💻 Tecnologias Usadas
   
   <p>Foram utilizadas as seguintes técnologias para a criação do nosso projeto: </p><br>
 
