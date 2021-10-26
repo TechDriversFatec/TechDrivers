@@ -1,288 +1,274 @@
-*{
-    font-family: arial;
-    list-style: none;
+* {
+  font-family: arial;
+  list-style: none;
+  text-decoration: none;
 }
 
+/*--------------------------------------HEADER-------------------------------------- */
+
 header {
-    height: 250px;
+  height: 250px;
 }
 
 .logo img {
-    width: 280px;
-    margin: 5px;
+  width: 280px;
+  margin: 5px;
 }
 
 .menu {
-    width: 79%;
-    margin-left: 280px;
-    margin-top: -70px;
+  width: 79%;
+  margin-left: 280px;
+  margin-top: -70px;
 }
 
-.menu li a {
-    border-radius: 5px;
-    background-color: #ccc;
-    color: #000;
-    font-weight: bold;
+.menu a {
+  border-radius: 5px 5px 0 0;
+  background-color: #ccc;
+  color: #000;
+  font-weight: bold;
 }
 
-.menu li a:hover {
-    background-color: #ddd;
-    width: 100%;
+.menu a:hover {
+  background-color: #ddd;
+  width: 100%;
 }
 
 #nav ul li {
-    display: inline;
+  display: inline;
 }
 
 #nav a {
-    padding: 8px 40px;
-    margin: 0 10px 0 0;
+  padding: 8px 40px;
+  margin: 0 10px 0 0;
 }
 
-#nav a:hover{
-    color: #fff;
+#nav a:hover {
+  color: #fff;
 }
 
+/*--------------------------------------DROPDOWN-------------------------------------- */
 
-/* DROPDOWN */
-
-.wrapper-menu{
-    position:relative;
+.wrapperMenu {
+  position: relative;
 }
 
-.wrapper-dropdown ul li a {
-    display: block;
-    font-weight: normal;
+.wrapperDropdown ul li a {
+  display: block;
+  font-weight: normal;
 }
 
-.dropdown{
-    position: absolute;
-    display:none;
-    margin-top: 6.5px;
+.dropdown {
+  position: absolute;
+  display: none;
+  margin-top: 6.5px;
 }
 
-
-.wrapper-dropdown:hover > .dropdown{
-    z-index: 1;
-    height: 272px;
-    width: 50%;
-    background-color: #ccc;
-    display: block;
+.wrapperDropdown:hover > .dropdown {
+  z-index: 1;
+  height: 272px;
+  width: 50%;
+  background-color: #ccc;
+  display: block;
 }
 
+/*--------------------------------------INFORMAÇÕES DA FATEC - HOME-------------------------------------- */
 
-/*--------------------------------------------- search ---------------------------------------------  */
-
-.header-search{
-    margin-top: -8px;
-    float: right;
-    margin-right: 40px;
-    width: 230px;
+.fatecAbout {
+  text-align: justify;
+  padding: 55px 50px 100px 100px;
 }
 
-.header-search input::-webkit-input-placeholder {
-    color: #000;
-}
-.header-search input:-moz-placeholder{
-    color: #000;
-    opacity: 1;
-}
-.header-search input::-moz-placeholder{
-    color: #000;
-    opacity: 1;
-}
-.header-search input:-ms-input-placeholder{
-    color: #000;
-}
-.header-search input::-ms-input-placeholder{
-    color: #000;
-}
-.header-search input::placeholder{
-    color: #000;
+.fatecAbout p {
+  width: 500px;
+  margin: 20px 0;
 }
 
-
-.header-search input{
-    border: 1px solid #ccc;
-    outline: none;
-    width: 100%;
-    color: #000;
-    text-transform: uppercase;
-    background: #fff;
-    padding: 10px;
-    border-radius: 4px;
-    -webkit-border-radius: 4px;
+.fatecAbout img {
+  width: 480px;
+  float: right;
+  margin-top: -22.5%;
+  margin-right: 90px;
 }
 
-.header-search button{
-    cursor: pointer;
-    position: absolute;
-    right: 18px;
-    top: 60%;
-    color: #ccc;
-    font-size: 1.2rem;
-    background: transparent;
-    transform: translateY(-50%);
-    -webkit-transform: translateY(-50%);
+/*--------------------------------------LISTA DE CURSOS -------------------------------------- */
+
+.containerCourses {
+  background-color: #ddd;
 }
 
-.sobre{
-    text-align: justify;
-    padding: 55px 50px 100px 100px;
-    
+.rowCourses {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 auto;
+  width: 70%;
+  padding: 60px 0 40px 0;
 }
 
-.sobre p{
-    width: 500px;
-    margin: 20px 0;
+.courses p {
+  width: 200px;
+  height: 40px;
 }
 
-.sobre img {
-    width: 480px;
-    float: right;
-    margin-top: -22.5%;
-    margin-right: 90px;
+.projects {
+  text-align: center;
+  width: 200px;
+  height: 200px;
 }
 
-.fundo{
-    background-color: #ddd;
+.projects img {
+  border: 3px solid #aaa;
+  background-color: #bbb;
+  padding: 33px;
 }
 
-.a {
-    display: flex;
-    justify-content: space-between;
-    margin: 0 auto;
-    width: 70%;
-    padding: 60px 0 40px 0;
+.projects img:hover {
+  background-color: #ccc;
 }
 
-.b p{
-    width: 200px;
-    height: 40px;
+/*--------------------------------------INFORMAÇÕES ADICIONAIS - CONTATO-------------------------------------- */
+
+.maps {
+  text-align: center;
+  width: 60%;
+  padding: 30px 0 10px 0;
 }
 
-.projetos {
-    text-align: center;
-    width: 200px;
-    height: 200px;
+.infosIcons {
+  width: 40%;
+  float: right;
+  margin-top: -40%;
+  padding: 80px 50px;
 }
 
-.projetos img {
-    border: 3px solid #aaa;
-    background-color: #bbb;
-    padding: 33px;
+.infosIcons li {
+  margin: 50px 0;
 }
 
-.projetos img:hover{
-    background-color: #ccc;
+.infosIcons li a {
+  font-size: 20px;
+  color: #000;
 }
 
-.mapa {
-    text-align: center;
-    width: 60%;
-    padding: 30px 0 10px 0;
+.infosIcons i {
+  font-size: 30px;
+  margin: 0 20px;
 }
 
-.icone {
-    width: 40%;
-    float: right;
-    margin-top: -40%;
-    padding: 80px 50px;
+/*--------------------------------------FOOTER-------------------------------------- */
+
+footer .containerCourses {
+  height: 290px;
 }
 
-.icone li{
-    margin: 50px 0;
-}
-
-.icone li a {
-    font-size: 20px;
-    color: #000;
-}
-
-.icone i {
-    font-size: 30px;
-    margin: 0 20px;
-}
-
-footer .fundo {
-    height: 290px;
-}
-
-footer .c {
-    text-align: center;
-    width: 60%;
-    padding: 115px 10px;
-    font-weight: bold;
-    color: #777;
+footer .footer {
+  text-align: center;
+  width: 60%;
+  padding: 115px 10px;
+  font-weight: bold;
+  color: #777;
 }
 
 footer img {
-    width: 200px;
+  width: 200px;
 }
 
-footer .d {
-    text-align: center;
-    padding: 40px 0;
-    width: 40%;
-    height: 270px;
-    float: right;
-    margin-top: -280px;
+footer .fatecIcon {
+  text-align: center;
+  padding: 40px 0;
+  width: 40%;
+  height: 270px;
+  float: right;
+  margin-top: -280px;
 }
 
-.c p {
-    padding: 5px 0;
+.footer p {
+  padding: 5px 0;
 }
 
-.info {
-    display: flex;
-    background-color: #ccc;
-    width: 70%;
-    margin: 0 auto;
-    padding: 40px;
+/*--------------------------------------ESTILO DAS PAGINAS DE CURSOS-------------------------------------- */
+
+/*--------------------------------------INFORMAÇÕES DE CADA CURSO-------------------------------------- */
+
+.containerCoursesInfos {
+  display: flex;
+  background-color: #ccc;
+  width: 70%;
+  margin: 0 auto;
+  padding: 40px;
 }
 
-.enviar {
-    background-color: #aaa;
-    width: 10%;
-    padding: 15px;
-    float: right;
-    margin: -65px 250px 0 0;
-    cursor: pointer;
-    font-weight: bold;
+.selectsButtons {
+  width: 20%;
+  padding: 5px;
 }
 
-.enviar:hover{
-    background-color: #bbb;
+.selectsButtons select {
+  background-color: #aaa;
+  display: block;
+  padding: 10px;
+  font-size: 15px;
+  margin: 30px 0;
+  width: 100%;
+  border: none;
+  outline: none;
 }
 
-.botoes {
-    width: 20%;
-    padding: 5px;
+.coursesInfos {
+  width: 80%;
+  padding: 30px 30px 0 30px;
+  text-align: justify;
 }
 
-.botoes select {
-    background-color: #aaa;
-    display: block;
-    padding: 10px;
-    font-size: 15px;
-    margin: 30px 0;
-    width: 100%;
-    border: none;
-    outline: none;
+.coursesInfos p {
+  margin: 20px 0;
 }
 
-.infos {
-    width: 80%;
-    padding: 30px 30px 0 30px;
-    text-align: justify;
+/*--------------------------------------FUNDO DA TABELA-------------------------------------- */
+
+.containerTable {
+  background-color: #eee;
+  text-align: center;
+  padding: 50px;
+
+  margin-top: 70px;
 }
 
-.infos p {
-    margin: 20px 0;
+/*-----------------------------------------TABELA---------------------------------------- */
+
+.containerTable table {
+  border-collapse: collapse;
+  width: 80%;
+  margin: 0 auto;
 }
 
-.teste {
-    background-color: #eee;
-    margin-top: 100px;
-    height: 600px;
+.containerTable thead {
+  background-color: #1a1b26;
+  color: #faebeb;
+}
+
+.containerTable table th {
+  text-align: center;
+}
+
+.containerTable table td {
+  text-align: left;
+}
+
+.containerTable table tbody:nth-child(even) {
+  background-color: rgba(26, 27, 38, 0.2);
+}
+
+.containerTable table tbody:hover {
+  background-color: #ddd;
+}
+
+.containerTable table td,
+.containerTable table th {
+  border: 1px solid #1a1b26;
+  padding: 5px;
+}
+
+.containerTable a:hover {
+  color: #9147ff;
+  font-weight: normal;
 }
