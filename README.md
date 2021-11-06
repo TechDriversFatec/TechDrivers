@@ -46,9 +46,10 @@
   
 ![Sprint2](https://user-images.githubusercontent.com/89143350/136666636-a0a97b0b-6360-4ca1-858f-f61bc0d43e00.png)
 
-![sprint3](https://user-images.githubusercontent.com/80860267/140592119-cc8ddecb-466a-4937-8635-2044cfa9fbf4.png)
+![Sprint3](https://user-images.githubusercontent.com/80860267/140592826-6e26fa8d-5b27-453c-84ae-9cf672e005ba.png)
   
-![Sprint4](https://user-images.githubusercontent.com/89143350/136666649-9cc07094-62c7-4c80-b8f7-cf55c33bf031.png)
+![Sprint4](https://user-images.githubusercontent.com/80860267/140592820-2a595852-5791-4822-a69f-e526ce15eb6b.png)
+
 
 </div>
   
