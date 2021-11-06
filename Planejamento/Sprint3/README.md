@@ -52,7 +52,7 @@ O grupo se dividiu em três equipes com responsabilidades diferentes, mas igualm
   <span id="clonagem">
 
 # 🗃 Clonagem automática com Python
-  <p align="justify">--------------------------------ESCREVA AQUI--------------------</p>
+  <p align="justify">Dando continuidade ao processo de raspagem realizado na segunda sprint, a equipe focou no desenvolvimento de um código para realizar a clonagem automática. Pra essa etapa foram utilizadas algumas bibliotecas do Python, sendo elas "requests", a "Beautiful Soup" e a "GitPython". As duas primeiras bibliotecas já vinham sendo usadas desde a segunda sprint para a raspagem dos dados e foram associadas à GitPython para o processo de clonagem dos repositórios. O código desenvolvido faz toda a clonagem automaticamente, salvando pelo nome das respectivas equipes.</p>
     
 > Para a visualização do código em Python [Clique aqui](/Back-end/dados.py)
 
