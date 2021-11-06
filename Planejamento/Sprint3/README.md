@@ -52,7 +52,7 @@ O grupo se dividiu em três equipes com responsabilidades diferentes, mas igualm
 # 🗃 Clonagem automática com Python
   <p align="justify">--------------------------------ESCREVA AQUI--------------------</p>
     
-> Para a visualização do código em Python [Clique aqui](/Back-end/url.py)
+> Para a visualização do código em Python [Clique aqui](/Back-end/dados.py)
 
 → [Voltar ao topo](#topo)
     
