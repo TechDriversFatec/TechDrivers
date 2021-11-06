@@ -63,7 +63,9 @@ O grupo se dividiu em três equipes com responsabilidades diferentes, mas igualm
 # 🖥 Site em HTML
   <p align="justify">Em continuidade ao processo de codificação iniciado na 2ª sprint, a equipe finalizou as estruturas das páginas dos respectivos cursos utilizando HTML, CSS e JavaScript. Todas essas páginas contam com o título do curso, uma breve descrição e uma tabela contendo todos projetos desenvolvidos pelos respectivos alunos e clonados no GitHub da Tech Drivers. A tabela foi organizada por ano, semestre, turma e equipe, atendendo aos requisitos mencionados pelo cliente no Kick-Off. Para melhorar a experiência do usuário, a equipe inseriu algumas funcionalidades utilizando JavaScript. O resultado desta etapa foi um sistema interativo e intuitivo, fácil de ser manuseado e interpretado pelo usuário, conforme mostrado a seguir:</p>
     
-> Para a visualização das páginas desenvolvidas [clique aqui](https://techdriversfatec.github.io/SiteAPI/index.html)
+> Para a visualização do código do site em HTML, CSS e JavaScript [clique aqui](/Front-End)
+    
+> Para a visualização do site online pelo Github [clique aqui](https://techdriversfatec.github.io/SiteAPI/index.html)
   
 → [Voltar ao topo](#topo) 
     
