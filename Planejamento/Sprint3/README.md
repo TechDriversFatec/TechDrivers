@@ -14,7 +14,22 @@
 <span id="objetivo">
 
 # 📌 Objetivo da Sprint 3
-  <p align="justify">--------------------------------ESCREVA AQUI--------------------</p>
+  <p align="justify">
+Para a Terceira Sprint a equipe aproveitou os resultados obtidos nas Sprints anteriores para dar seguimento no projeto. Como já havia toda a base do projeto estruturada, conseguimos dar continuidade nos requisitos de clonagem dos projetos e na Página Web.
+  </p>
+  <p align="justify">
+    Os responsáveis pelo back-end desenvolveram um código para a clonagem automática dos projetos, enquanto que foi desenvolvida uma planilha com os dados obtidos pelo código na segunda Sprint. E a equipe responsável pelo front-end se responsabilizou de fazer a integração da planilha com a página web para que sejam exibidas as informações e dados obtidos.
+  </p>
+<div align="justify">
+O grupo se dividiu em três equipes com responsabilidades diferentes, mas igualmente importantes, então tivemos os principais pontos realizados nessa sprint:
+  
+* Criação da tabela com os dados obtidos pelo código Python da segunda Sprint;
+  
+* Desenvolvimento do código para a clonagem automática com base nos links obtidos pelo código da segunda Sprint;
+  
+* Integração da tabela de dados com a nossa página Web;
+
+
   
   <div align="justify">
     
