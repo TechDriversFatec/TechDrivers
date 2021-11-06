@@ -46,7 +46,8 @@
   <span id="site">
 
 # 🖥 Site em HTML
-  <p align="justify">--------------------------------ESCREVA AQUI--------------------</p>
+  <p align="justify">Em continuidade ao processo de codificação iniciado na 2ª sprint, a equipe finalizou as estruturas das páginas dos respectivos cursos utilizando HTML, CSS e JavaScript. Todas essas páginas contam com o título do curso, uma breve descrição e uma tabela contendo todos projetos desenvolvidos pelos respectivos alunos. A tabela foi organizada por ano, semestre, turma e equipe, atendendo aos requisitos mencionados pelo cliente no Kick-Off. Para melhorar a experiência do usuário, a equipe inseriu algumas funcionalidades utilizando JavaScript.
+O resultado desta etapa foi um sistema interativo e intuitivo, fácil de ser manuseado e interpretado pelo usuário, conforme mostrado a seguir:</p>
     
 > Para a visualização dos códigos [Clique aqui](/Front-end)
   
@@ -57,8 +58,6 @@
   <span id="burndown">
   
 # 📉 Burndown
-  <p align="justify">O gráfico de Burndown é um método de visualização do andamento da sprint muito comum nos métodos ágeis. Ele possui a vantagem de permitir a rápida visualização, por todo o time de desenvolvimento, do andamento das atividades, sem necessariamente entrar nas histórias de usuário como no backlog da sprint. No nosso gráfico de Burndown está a nossa divisão de duas equipes que ficaram responsáveis por duas partes do projeto (Front-end e Back-end).
-
-A equipe responsável pela parte de front-end, ficou encarregada de finalizar a pagina web atraves do codigo HTML E CSS e implementar a tabela com os dados raspados. A equipe responsável pela parte de back-end, ficou encarregada de finalizar o codigo (Python) para a automatizacao das clonagens e fornecer ao back-end os dados necessários para a tabela.</p>
+  <p align="justify">--------------------------------ESCREVA AQUI--------------------</p>
     
 → [Voltar ao topo](#topo)
