@@ -59,7 +59,7 @@
 # 📉 Burndown
   <p align="justify">O gráfico de Burndown é um método de visualização do andamento da sprint muito comum nos métodos ágeis. Ele possui a vantagem de permitir a rápida visualização, por todo o time de desenvolvimento, do andamento das atividades, sem necessariamente entrar nas histórias de usuário como no backlog da sprint. No nosso gráfico de Burndown está a nossa divisão de duas equipes que ficaram responsáveis por duas partes do projeto (Front-end e Back-end).
 
-A equipe responsável pela parte de front-end, ficou encarregada de finalizar a pagina web atraves do codigo HTML E CSS e implementar a tabela com os dados raspados. A equipe responsável pela parte de back-end, ficou encarregada de finalizar o codigo (Python) para a automatizacao das clonagens e fornecer ao back-end os dados necessários para a tabela.</p>
+A equipe responsável pela parte de front-end, ficou encarregada de finalizar a pagina web atraves do codigo HTML E CSS E JavaScript e implementar a tabela com os dados raspados. A equipe responsável pela parte de back-end, ficou encarregada de finalizar o codigo (Python) para a automatizacao das clonagens e fornecer ao back-end os dados necessários para a tabela.</p>
     
   ![burndown](https://user-images.githubusercontent.com/80860267/140591858-55aa99a6-ce1b-4ae0-a77c-6fd160b64934.png)
 
