@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Fatec SJC</title>
+    <link
+      rel="shortcut icon"
+      type="imagem/x-icon"
+      href="images/fatecicon.jpg"
+    />
+
+    <!-- jQuery e Tablesorter -->
+    <script src="Javascript/jquery-latest.js"></script>
+    <script src="Javascript/jquery.tablesorter.min.js"></script>
+
+   
+
+    <!---------- ESTILOS ---------------->
+    <link href="Css/bootstrap.css" rel="stylesheet" />
+    <link rel="stylesheet" href="Css/Style.css" />
+    <link rel="stylesheet" href="Css/reset.css" />
+    <link rel="stylesheet" type="text/css" href="css/fontawesome.all.min.css" />
+
+    <!------------------------- LETRA ---------------------->
+
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+
+  <body>
+    <div id="logo"></div>
+    <header class="headerCourses">
+      <!------------------------- HEADER - LOGOTIPO ---------------------->
+
+      <div class="logo">
+        <a href="index.html">
+          <img src="images/logoFatec.png" alt="Logo Fatec" />
+        </a>
+      </div>
+
+      <!------------------------- MENU - DROPDOWN ---------------------->
+
+      <div class="menuCourses">
+        <div>
+          <button
+            class="btn btn-secondary dropdown-toggle"
+            type="button"
+            id="dropdownMenuButton1"
+            data-bs-toggle="dropdown"
+            aria-expanded="false"
+          >
+            Cursos
+          </button>
+          <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+            <li>
+              <a class="dropdown-item" href="analiseDesenvolvimento.html"
+                >Análise e Desenvolvimento de Sistemas
+              </a>
+            </li>
+            <li>
+              <a class="dropdown-item" href="bancoDados.html">Banco de Dados</a>
+            </li>
+            <li>
+              <a class="dropdown-item" href="desenvolvimentoSoftware.html"
+                >Desenvolvimento de Software Multiplataforma</a
+              >
+            </li>
+            <li>
+              <a class="dropdown-item" href="producaoInd.html"
+                >Gestão da Produção Industrial</a
+              >
+            </li>
+            <li>
+              <a class="dropdown-item" href="logistica.html">Logística</a>
+            </li>
+            <li>
+              <a class="dropdown-item" href="manufaturaAvan.html">
+                Manufatura Avançada
+              </a>
+            </li>
+            <li>
+              <a class="dropdown-item" href="manutencaoAero.html">
+                Manutenção de Aeronaves
+              </a>
+            </li>
+            <li>
+              <a class="dropdown-item" href="projetoAero.html">
+                Projetos de Estruturas Aeronáuticas
+              </a>
+            </li>
+          </ul>
+      
+        
+      </div>
+      <!------------------------------------------------------------------->
+    </header>
+    <!------------------------- CAIXA DE SELECTS E INFORMAÇÕES DO CURSO ---------------------->
+    <main>
+      <div class="containerCoursesInfos">
+        <!-- <div class="selectsButtons">
+          <form action="">
+            <select name="select">
+              <option value="valor1" selected>ANO</option>
+            </select>
+
+            <select name="select">
+              <option value="valor1" selected>SEMESTRE</option>
+            </select>
+
+            <select name="select">
+              <option value="valor1" selected>TURMA</option>
+            </select>
+          </form>
+        </div> -->
+        <div class="coursesInfos">
+          <h3>Projetos de Estruturas Aeronáuticas</h3>
+          <p>
+            O Tecnólogo em Projetos de Estruturas Aeronáuticas desenvolve
+            projetos de componentes estruturais de uma aeronave, segundo as
+            normas técnicas e de segurança, projeta peças e estruturas, e
+            supervisiona a execução de projetos de fabricação de estruturas e
+            peças. Pode atuar também na produção - industrial ou manual - de
+            peças estruturais em compósitos (materiais compostos por dois ou
+            mais componentes) e no gerenciamento de equipes na fábrica. O uso
+            crescente de materiais leves na fabricação de estruturas
+            aeronáuticas para diminuir o peso das aeronaves e melhorar
+            performances, amplia o campo de trabalho para esse tecnólogo.
+          </p>
+        </div>
+      </div>
+      <div class="containerTable">
+        <small>Esse curso não possui nenhuma API realizada até o momento</small>
+        <table class="tablesorter">
+          <thead>
+            <tr>
+              <th width="60px">ANO</th>
+              <th width="105px">SEMESTRE</th>
+              <th width="72px">TURMA</th>
+              <th width="200px">EQUIPE</th>
+              <th>GITHUB</th>
+              <th width="20px">YOUTUBE</th>
+            </tr>
+          </thead>
+        </table>
+      </div>
+    </main>
+
+    <footer class="containerFooter">
+      <div class="containerCourses">
+        <div class="footer">
+          <p>FATEC SÃO JOSÉ DOS CAMPOS - PROFº JESSEN VIDAL</p>
+          <hr />
+          <p>Todos os direitos reservados</p>
+        </div>
+        <div class="fatecIcon">
+          <img src="images/fatecicon.jpg" alt="" />
+        </div>
+      </div>
+    </footer>
+
+    <a href="#logo" class="back-to-top">Voltar ao topo</a>
+    <!-- Meu script -->
+    <script src="Javascript/main.js"></script>
+
+    <script src="Javascript/bootstrap.bundle.min.js"></script>
+  </body>
+</html>
