@@ -46,8 +46,7 @@
   <span id="site">
 
 # 🖥 Site em HTML
-  <p align="justify">Em continuidade ao processo de codificação iniciado na 2ª sprint, a equipe finalizou as estruturas das páginas dos respectivos cursos utilizando HTML, CSS e JavaScript. Todas essas páginas contam com o título do curso, uma breve descrição e uma tabela contendo todos projetos desenvolvidos pelos respectivos alunos. A tabela foi organizada por ano, semestre, turma e equipe, atendendo aos requisitos mencionados pelo cliente no Kick-Off. Para melhorar a experiência do usuário, a equipe inseriu algumas funcionalidades utilizando JavaScript.
-O resultado desta etapa foi um sistema interativo e intuitivo, fácil de ser manuseado e interpretado pelo usuário, conforme mostrado a seguir:</p>
+  <p align="justify">--------------------------------ESCREVA AQUI--------------------</p>
     
 > Para a visualização dos códigos [Clique aqui](/Front-end)
   
@@ -60,4 +59,8 @@ O resultado desta etapa foi um sistema interativo e intuitivo, fácil de ser man
 # 📉 Burndown
   <p align="justify">--------------------------------ESCREVA AQUI--------------------</p>
     
+  ![burndown](https://user-images.githubusercontent.com/80860267/140591858-55aa99a6-ce1b-4ae0-a77c-6fd160b64934.png)
+
+  ![burndown2](https://user-images.githubusercontent.com/80860267/140591959-f14635e2-c1cc-4ee3-830f-c21890b2d859.png)
+
 → [Voltar ao topo](#topo)
