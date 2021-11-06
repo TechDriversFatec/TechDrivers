@@ -7,7 +7,7 @@
 #### Navegador
 * <a href="#objetivo">Objetivo da Sprint 3</a>
 * <a href="#requisitos">Levantamento de requisitos</a>
-* <a href="#raspagem">Raspagem automática com Python</a>
+* <a href="#clonagem">Clonagem automática com Python</a>
 * <a href="#site">Site em HTML</a>
 * <a href="#burndown">Burndown</a>
 
@@ -32,3 +32,31 @@
   
   
   ------------------------------------------------------------------------------
+  <span id="clonagem">
+
+# 🗃 Clonagem automática com Python
+  <p align="justify">--------------------------------ESCREVA AQUI--------------------</p>
+    
+> Para a visualização do código em Python [Clique aqui](/Back-end/url.py)
+
+→ [Voltar ao topo](#topo)
+    
+    
+------------------------------------------------------------------------------
+  <span id="site">
+
+# 🖥 Site em HTML
+  <p align="justify">--------------------------------ESCREVA AQUI--------------------</p>
+    
+> Para a visualização dos códigos [Clique aqui](/Front-end)
+  
+→ [Voltar ao topo](#topo) 
+    
+    
+------------------------------------------------------------------------------
+  <span id="burndown">
+  
+# 📉 Burndown
+  <p align="justify">--------------------------------ESCREVA AQUI--------------------</p>
+    
+→ [Voltar ao topo](#topo)
