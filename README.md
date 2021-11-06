@@ -24,7 +24,7 @@
 | :-----: | :-----: | :-----: | :-----: |
 | 01 | 19/09/2021 | Completo | [Ver Relatório](/Planejamento/Sprint1/README.md) |
 | 02 | 10/10/2021 | Completo | [Ver Relatório](/Planejamento/Sprint2/README.md) |
-| 03 | 07/11/2021 | Em andamento | [Ver Relatório](/Planejamento/Sprint3/README.md) |
+| 03 | 07/11/2021 | Completo | [Ver Relatório](/Planejamento/Sprint3/README.md) |
 | 04 | 28/11/2021 | Não iniciado | [](/Planejamento/Sprint4/README.md) |
   
   → [Voltar ao topo](#topo)
@@ -46,7 +46,7 @@
   
 ![Sprint2](https://user-images.githubusercontent.com/89143350/136666636-a0a97b0b-6360-4ca1-858f-f61bc0d43e00.png)
 
-![Sprint3](https://user-images.githubusercontent.com/89143350/136666644-c6a22dea-6380-4a02-ad41-91c8193c21fe.png)
+![sprint3](https://user-images.githubusercontent.com/80860267/140592119-cc8ddecb-466a-4937-8635-2044cfa9fbf4.png)
   
 ![Sprint4](https://user-images.githubusercontent.com/89143350/136666649-9cc07094-62c7-4c80-b8f7-cf55c33bf031.png)
 
