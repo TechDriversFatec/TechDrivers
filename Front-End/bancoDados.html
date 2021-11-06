@@ -1,0 +1,1159 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Fatec SJC</title>
+    <link
+      rel="shortcut icon"
+      type="imagem/x-icon"
+      href="images/fatecicon.jpg"
+    />
+
+    <!-- jQuery e Tablesorter -->
+
+    <script src="Javascript/jquery-latest.js"></script>
+    <script src="Javascript/jquery.tablesorter.min.js"></script>
+
+    <!---------- ESTILOS ---------------->
+    <link href="Css/bootstrap.css" rel="stylesheet" />
+    <link rel="stylesheet" href="Css/Style.css" />
+    <link rel="stylesheet" href="Css/reset.css" />
+    <link rel="stylesheet" type="text/css" href="css/fontawesome.all.min.css" />
+
+    <!------------------------- LETRA ---------------------->
+
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+
+  <body>
+    <div id="logo"></div>
+    <header class="headerCourses">
+      <!------------------------- HEADER - LOGOTIPO ---------------------->
+
+      <div class="logo">
+        <a href="index.html">
+          <img src="images/logoFatec.png" alt="Logo Fatec" />
+        </a>
+      </div>
+
+      <!------------------------- MENU - DROPDOWN ---------------------->
+
+      <div class="menuCourses">
+        <div>
+          <button
+            class="btn btn-secondary dropdown-toggle"
+            type="button"
+            id="dropdownMenuButton1"
+            data-bs-toggle="dropdown"
+            aria-expanded="false"
+          >
+            Cursos
+          </button>
+          <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+            <li>
+              <a class="dropdown-item" href="analiseDesenvolvimento.html"
+                >Análise e Desenvolvimento de Sistemas
+              </a>
+            </li>
+            <li>
+              <a class="dropdown-item" href="bancoDados.html">Banco de Dados</a>
+            </li>
+            <li>
+              <a class="dropdown-item" href="desenvolvimentoSoftware.html"
+                >Desenvolvimento de Software Multiplataforma</a
+              >
+            </li>
+            <li>
+              <a class="dropdown-item" href="producaoInd.html"
+                >Gestão da Produção Industrial</a
+              >
+            </li>
+            <li>
+              <a class="dropdown-item" href="logistica.html">Logística</a>
+            </li>
+            <li>
+              <a class="dropdown-item" href="manufaturaAvan.html">
+                Manufatura Avançada
+              </a>
+            </li>
+            <li>
+              <a class="dropdown-item" href="manutencaoAero.html">
+                Manutenção de Aeronaves
+              </a>
+            </li>
+            <li>
+              <a class="dropdown-item" href="projetoAero.html">
+                Projetos de Estruturas Aeronáuticas
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <!------------------------------------------------------------------->
+    </header>
+    <!------------------------- CAIXA DE SELECTS E INFORMAÇÕES DO CURSO ---------------------->
+    <main>
+      <div class="containerCoursesInfos">
+        <div class="coursesInfos">
+          <h3>Banco de Dados</h3>
+          <p>
+            O Tecnólogo em Banco de Dados projeta e administra um complexo
+            arquivo que armazena e organiza informações digitais, ficando
+            responsável por procedimentos que vão desde o cuidado com o conjunto
+            de máquinas, como os servidores, até a configuração dos softwares de
+            gerenciamento de dados e informações. Esse profissional também é
+            responsável por testar, avaliar e monitorar o funcionamento do banco
+            de dados, avaliando a taxa de velocidade da troca de informação, por
+            exemplo. O administrador de banco de dados está entre os
+            profissionais mais bem remunerados da área de Tecnologia da
+            Informação.
+          </p>
+        </div>
+      </div>
+
+      <!------------------------- TABELA COM INFORMAÇÕES DO GITHUB ---------------------->
+
+      <div class="containerTable">
+        <table class="tablesorter" id="myTable">
+          <thead>
+            <tr>
+              <th>ANO</th>
+              <th width="105px">SEMESTRE</th>
+              <th width="72px">TURMA</th>
+              <th width="200px">EQUIPE</th>
+              <th>GITHUB</th>
+              <th width="20px">YOUTUBE</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>2020</td>
+              <td>1º Semestre</td>
+              <td></td>
+              <td>Equipe 1</td>
+              <td><i class="fab fa-github"></i></td>
+              <td>
+                <a
+                  href="https://www.youtube.com/watch?v=g82Hj9fPcDw"
+                  target="_blank"
+                  ><i class="fab fa-youtube"></i
+                ></a>
+              </td>
+            </tr>
+            <tr>
+              <td>2020</td>
+              <td>1º Semestre</td>
+              <td></td>
+              <td>Equipe 2</td>
+              <td><i class="fab fa-github"></i></td>
+              <td>
+                <a
+                  href="https://www.youtube.com/watch?v=5q9AW1OUbXE"
+                  target="_blank"
+                  ><i class="fab fa-youtube"></i
+                ></a>
+              </td>
+            </tr>
+            <tr>
+              <td>2020</td>
+              <td>1º Semestre</td>
+              <td></td>
+              <td>Equipe 3</td>
+              <td><i class="fab fa-github"></i></td>
+              <td>
+                <a
+                  href="https://www.youtube.com/watch?v=gUKQfa1pHys"
+                  target="_blank"
+                  ><i class="fab fa-youtube"></i
+                ></a>
+              </td>
+            </tr>
+            <tr>
+              <td>2020</td>
+              <td>1º Semestre</td>
+              <td></td>
+              <td>Equipe 5</td>
+              <td><i class="fab fa-github"></i></td>
+              <td>
+                <a
+                  href="https://www.youtube.com/watch?v=xlltAsFQC90"
+                  target="_blank"
+                  ><i class="fab fa-youtube"></i
+                ></a>
+              </td>
+            </tr>
+            <tr>
+              <td>2020</td>
+              <td>1º Semestre</td>
+              <td></td>
+              <td>Equipe 6</td>
+              <td><i class="fab fa-github"></i></td>
+              <td>
+                <a
+                  href="https://www.youtube.com/watch?v=7vHIkx5pvZ4"
+                  target="_blank"
+                  ><i class="fab fa-youtube"></i
+                ></a>
+              </td>
+            </tr>
+            <tr>
+              <td>2020</td>
+              <td>1º Semestre</td>
+              <td></td>
+              <td>Equipe 7</td>
+              <td><i class="fab fa-github"></i></td>
+              <td>
+                <a
+                  href="https://www.youtube.com/watch?v=ztBvIPdmXEY"
+                  target="_blank"
+                  ><i class="fab fa-youtube"></i
+                ></a>
+              </td>
+            </tr>
+            <tr>
+              <td>2020</td>
+              <td>1º Semestre</td>
+              <td></td>
+              <td>Equipe 8</td>
+              <td><i class="fab fa-github"></i></td>
+              <td>
+                <a
+                  href="https://www.youtube.com/watch?v=k9nQJGd9fRA"
+                  target="_blank"
+                  ><i class="fab fa-youtube"></i
+                ></a>
+              </td>
+            </tr>
+            <tr>
+              <td>2020</td>
+              <td>1º Semestre</td>
+              <td></td>
+              <td>Equipe 9</td>
+              <td><i class="fab fa-github"></i></td>
+              <td>
+                <a
+                  href="https://www.youtube.com/watch?v=Mz8vc27xbKY"
+                  target="_blank"
+                  ><i class="fab fa-youtube"></i
+                ></a>
+              </td>
+            </tr>
+            <tr>
+              <td>2020</td>
+              <td>2º Semestre</td>
+              <td></td>
+              <td>Equipe 1</td>
+              <td>
+                <i class="fab fa-github"></i>
+                <a
+                  href="https://github.com/TechDriversFatec/Gantt"
+                  target="_blank"
+                  >TechDriversFatec/Gantt</a
+                >
+              </td>
+              <td>
+                <a
+                  href="https://www.youtube.com/watch?v=GvCsE2-CJKo"
+                  target="_blank"
+                  ><i class="fab fa-youtube"></i
+                ></a>
+              </td>
+            </tr>
+            <tr>
+              <td>2020</td>
+              <td>2º Semestre</td>
+              <td></td>
+              <td>Equipe 2</td>
+              <td>
+                <i class="fab fa-github"></i>
+                <a
+                  href="https://github.com/TechDriversFatec/Pineapple"
+                  target="_blank"
+                  >TechDriversFatec/Pineapple</a
+                >
+              </td>
+              <td>
+                <a
+                  href="https://www.youtube.com/watch?v=oXX6T62uL8M"
+                  target="_blank"
+                  ><i class="fab fa-youtube"></i
+                ></a>
+              </td>
+            </tr>
+            <tr>
+              <td>2020</td>
+              <td>2º Semestre</td>
+              <td></td>
+              <td>Equipe 6</td>
+              <td>
+                <i class="fab fa-github"></i>
+                <a
+                  href="https://github.com/TechDriversFatec/Equipe-PHPython"
+                  target="_blank"
+                  >TechDriversFatec/Equipe-PHPython</a
+                >
+              </td>
+              <td>
+                <a
+                  href="https://www.youtube.com/watch?v=SmKH71QT4dc"
+                  target="_blank"
+                  ><i class="fab fa-youtube"></i
+                ></a>
+              </td>
+            </tr>
+            <tr>
+              <td>2020</td>
+              <td>2º Semestre</td>
+              <td></td>
+              <td>Equipe 7</td>
+              <td>
+                <i class="fab fa-github"></i>
+                <a
+                  href="https://github.com/TechDriversFatec/Equipe-Projeto-Integrador"
+                  >TechDriversFatec/Equipe-Projeto-Integrador</a
+                >
+              </td>
+              <td>
+                <a
+                  href="https://www.youtube.com/watch?v=JAB1JZbu-4Q"
+                  target="_blank"
+                  ><i class="fab fa-youtube"></i
+                ></a>
+              </td>
+            </tr>
+            <tr>
+              <td>2020</td>
+              <td>2º Semestre</td>
+              <td></td>
+              <td>Equipe 8</td>
+              <td>
+                <i class="fab fa-github"></i>
+                <a
+                  href="https://github.com/TechDriversFatec/Projeto-Integrador-II"
+                  target="_blank"
+                  >TechDriversFatec/Projeto-Integrador-II</a
+                >
+              </td>
+              <td>
+                <a
+                  href="https://www.youtube.com/watch?v=OVKcmNNOTZ0"
+                  target="_blank"
+                  ><i class="fab fa-youtube"></i
+                ></a>
+              </td>
+            </tr>
+            <tr>
+              <td>2020</td>
+              <td>5º Semestre</td>
+              <td></td>
+              <td>Equipe 1</td>
+              <td>
+                <i class="fab fa-github"></i>
+                <a
+                  href="https://github.com/TechDriversFatec/Equipe-Antenas"
+                  target="_blank"
+                  >TechDriversFatec/Equipe-Antenas</a
+                >
+              </td>
+              <td>
+                <a
+                  href="https://www.youtube.com/watch?v=lDY2B3Zyuo8"
+                  target="_blank"
+                  ><i class="fab fa-youtube"></i
+                ></a>
+              </td>
+            </tr>
+            <tr>
+              <td>2020</td>
+              <td>5º Semestre</td>
+              <td></td>
+              <td>Equipe 2</td>
+              <td>
+                <i class="fab fa-github"></i>
+                <a
+                  href="https://github.com/TechDriversFatec/antenas-integracao"
+                  target="_blank"
+                  >TechDriversFatec/antenas-integracao</a
+                >
+              </td>
+              <td>
+                <a
+                  href="https://www.youtube.com/watch?v=e7ySM2SYNVo"
+                  target="_blank"
+                  ><i class="fab fa-youtube"></i
+                ></a>
+              </td>
+            </tr>
+            <tr>
+              <td>2020</td>
+              <td>5º Semestre</td>
+              <td></td>
+              <td>Equipe 3</td>
+              <td>
+                <i class="fab fa-github"></i>
+                <a
+                  href="https://github.com/TechDriversFatec/Equipe-Antenas-Integra-o"
+                  >TechDriversFatec/Equipe-Antenas-Integra-o</a
+                >
+              </td>
+              <td>
+                <a
+                  href="https://www.youtube.com/watch?v=8IxLog2Iv3M"
+                  target="_blank"
+                  ><i class="fab fa-youtube"></i
+                ></a>
+              </td>
+            </tr>
+            <tr>
+              <td>2020</td>
+              <td>5º Semestre</td>
+              <td></td>
+              <td>Equipe 5</td>
+              <td>
+                <i class="fab fa-github"></i>
+                <a
+                  href="https://github.com/TechDriversFatec/antenas-integracao-master"
+                  >TechDriversFatec/antenas-integracao-master</a
+                >
+              </td>
+              <td>
+                <a
+                  href="https://www.youtube.com/watch?v=A_SEJe-8Qmc"
+                  target="_blank"
+                  ><i class="fab fa-youtube"></i
+                ></a>
+              </td>
+            </tr>
+            <tr>
+              <td>2020</td>
+              <td>6º Semestre</td>
+              <td></td>
+              <td>Safety Locks</td>
+              <td><i class="fab fa-github"></i></td>
+              <td>
+                <a
+                  href="https://www.youtube.com/watch?v=wBGFIl4ZthE"
+                  target="_blank"
+                  ><i class="fab fa-youtube"></i
+                ></a>
+              </td>
+            </tr>
+            <tr>
+              <td>2020</td>
+              <td>6º Semestre</td>
+              <td></td>
+              <td>3RAG</td>
+              <td>
+                <i class="fab fa-github"></i>
+                <a
+                  href="https://github.com/TechDriversFatec/Equipe3RAG"
+                  target="_blank"
+                  >TechDriversFatec/Equipe3RAG</a
+                >
+              </td>
+              <td>
+                <a
+                  href="https://www.youtube.com/watch?v=mCMZn1g1DBo"
+                  target="_blank"
+                  ><i class="fab fa-youtube"></i
+                ></a>
+              </td>
+            </tr>
+            <tr>
+              <td>2020</td>
+              <td>6º Semestre</td>
+              <td></td>
+              <td>Team Of The Semester</td>
+              <td>
+                <i class="fab fa-github"></i>
+                <a
+                  href="https://github.com/TechDriversFatec/EquipeTeamOfTheSemester"
+                  >TechDriversFatec/EquipeTeamOfTheSemester</a
+                >
+              </td>
+              <td>
+                <a
+                  href="https://www.youtube.com/watch?v=gBqtKcwlkwg"
+                  target="_blank"
+                  ><i class="fab fa-youtube"></i
+                ></a>
+              </td>
+            </tr>
+            <tr>
+              <td>2020</td>
+              <td>6º Semestre</td>
+              <td></td>
+              <td>Energy Control</td>
+              <td>
+                <i class="fab fa-github"></i>
+                <a
+                  href="https://github.com/TechDriversFatec/EquipeEnergyControl"
+                  >TechDriversFatec/EquipeEnergyControl</a
+                >
+              </td>
+              <td>
+                <a
+                  href="https://www.youtube.com/watch?v=Vbet4k0QA9M"
+                  target="_blank"
+                  ><i class="fab fa-youtube"></i
+                ></a>
+              </td>
+            </tr>
+            <tr>
+              <td>2020</td>
+              <td>6º Semestre</td>
+              <td></td>
+              <td>Psycho</td>
+              <td>
+                <i class="fab fa-github"></i>
+                <a
+                  href="https://github.com/TechDriversFatec/EquipePsycho"
+                  target="_blank"
+                  >TechDriversFatec/EquipePsycho</a
+                >
+              </td>
+              <td>
+                <a
+                  href="https://www.youtube.com/watch?v=D3UMamagQYU"
+                  target="_blank"
+                  ><i class="fab fa-youtube"></i
+                ></a>
+              </td>
+            </tr>
+            <tr>
+              <td>2020</td>
+              <td>6º Semestre</td>
+              <td></td>
+              <td>Smart Stock</td>
+              <td>
+                <i class="fab fa-github"></i>
+                <a
+                  href="https://github.com/TechDriversFatec/EquipeSmartStock"
+                  target="_blank"
+                  >TechDriversFatec/EquipeSmartStock</a
+                >
+              </td>
+              <td>
+                <a
+                  href="https://www.youtube.com/watch?v=BxzbVKHUA_g"
+                  target="_blank"
+                  ><i class="fab fa-youtube"></i
+                ></a>
+              </td>
+            </tr>
+            <tr>
+              <td>2020</td>
+              <td>6º Semestre</td>
+              <td></td>
+              <td>Hexagono</td>
+              <td>
+                <i class="fab fa-github"></i>
+                <a
+                  href="https://github.com/TechDriversFatec/EquipeHexagono"
+                  target="_blank"
+                  >TechDriversFatec/EquipeHexagono</a
+                >
+              </td>
+              <td>
+                <a
+                  href="https://www.youtube.com/watch?v=AYty7aQO1_A"
+                  target="_blank"
+                  ><i class="fab fa-youtube"></i
+                ></a>
+              </td>
+            </tr>
+            <tr>
+              <td>2020</td>
+              <td>1º Semestre</td>
+              <td></td>
+              <td>Equipe 1</td>
+              <td>
+                <i class="fab fa-github"></i>
+                <a
+                  href="https://github.com/TechDriversFatec/projeto_integrador_coffeend"
+                  >TechDriversFatec/projeto_integrador_coffeend</a
+                >
+              </td>
+              <td>
+                <a
+                  href="https://www.youtube.com/watch?v=FB_9eePoLME"
+                  target="_blank"
+                  ><i class="fab fa-youtube"></i
+                ></a>
+              </td>
+            </tr>
+            <tr>
+              <td>2020</td>
+              <td>1º Semestre</td>
+              <td></td>
+              <td>Mob Team</td>
+              <td>
+                <i class="fab fa-github"></i>
+                <a
+                  href="https://github.com/TechDriversFatec/vaidevan"
+                  target="_blank"
+                  >TechDriversFatec/vaidevan</a
+                >
+              </td>
+              <td>
+                <a
+                  href="https://www.youtube.com/watch?v=8hOsnEOGQ0s"
+                  target="_blank"
+                  ><i class="fab fa-youtube"></i
+                ></a>
+              </td>
+            </tr>
+            <tr>
+              <td>2020</td>
+              <td>1º Semestre</td>
+              <td></td>
+              <td>Equipe 3</td>
+              <td>
+                <i class="fab fa-github"></i>
+                <a
+                  href="https://github.com/TechDriversFatec/EasyWay"
+                  target="_blank"
+                  >TechDriversFatec/EasyWay</a
+                >
+              </td>
+              <td>
+                <a
+                  href="https://www.youtube.com/watch?v=Vpwj-0F2vX0"
+                  target="_blank"
+                  ><i class="fab fa-youtube"></i
+                ></a>
+              </td>
+            </tr>
+            <tr>
+              <td>2020</td>
+              <td>1º Semestre</td>
+              <td></td>
+              <td>Vanzeiros do Vale</td>
+              <td>
+                <i class="fab fa-github"></i>
+                <a
+                  href="https://github.com/TechDriversFatec/VanTec"
+                  target="_blank"
+                  >TechDriversFatec/VanTec</a
+                >
+              </td>
+              <td>
+                <a
+                  href="https://www.youtube.com/watch?v=dNXmAPeWxvI"
+                  target="_blank"
+                  ><i class="fab fa-youtube"></i
+                ></a>
+              </td>
+            </tr>
+            <tr>
+              <td>2020</td>
+              <td>1º Semestre</td>
+              <td></td>
+              <td>Equipe 6</td>
+              <td>
+                <i class="fab fa-github"></i>
+                <a
+                  href="https://github.com/TechDriversFatec/Projeto-Integrador"
+                  target="_blank"
+                  >TechDriversFatec/Projeto-Integrador</a
+                >
+              </td>
+              <td>
+                <a
+                  href="https://www.youtube.com/watch?v=yuV15Mc7h8c"
+                  target="_blank"
+                  ><i class="fab fa-youtube"></i
+                ></a>
+              </td>
+            </tr>
+            <tr>
+              <td>2020</td>
+              <td>2º Semestre</td>
+              <td></td>
+              <td>Equipe 1</td>
+              <td>
+                <i class="fab fa-github"></i>
+                <a
+                  href="https://github.com/TechDriversFatec/Projeto_Integrador_2-Sem2020"
+                  >TechDriversFatec/Projeto_Integrador_2-Sem2020</a
+                >
+              </td>
+              <td>
+                <a
+                  href="https://www.youtube.com/watch?v=Dzuy4PAdKIU"
+                  target="_blank"
+                  ><i class="fab fa-youtube"></i
+                ></a>
+              </td>
+            </tr>
+            <tr>
+              <td>2020</td>
+              <td>2º Semestre</td>
+              <td></td>
+              <td>Equipe 2</td>
+              <td>
+                <i class="fab fa-github"></i>
+                <a
+                  href="https://github.com/TechDriversFatec/pi-fatec-java"
+                  target="_blank"
+                  >TechDriversFatec/pi-fatec-java</a
+                >
+              </td>
+              <td>
+                <a
+                  href="https://www.youtube.com/watch?v=-R1y5P253Hw"
+                  target="_blank"
+                  ><i class="fab fa-youtube"></i
+                ></a>
+              </td>
+            </tr>
+            <tr>
+              <td>2020</td>
+              <td>2º Semestre</td>
+              <td></td>
+              <td>Equipe 3</td>
+              <td>
+                <i class="fab fa-github"></i>
+                <a
+                  href="https://github.com/TechDriversFatec/Projeto_Integrador2"
+                  >TechDriversFatec/Projeto_Integrador2</a
+                >
+              </td>
+              <td>
+                <a
+                  href="https://www.youtube.com/watch?v=Ei4-XTGxzyA"
+                  target="_blank"
+                  ><i class="fab fa-youtube"></i
+                ></a>
+              </td>
+            </tr>
+            <tr>
+              <td>2020</td>
+              <td>2º Semestre</td>
+              <td></td>
+              <td>Equipe 4</td>
+              <td>
+                <i class="fab fa-github"></i>
+                <a
+                  href="https://github.com/TechDriversFatec/projeto-integrador-2sem"
+                  >TechDriversFatec/projeto-integrador-2sem</a
+                >
+              </td>
+              <td>
+                <a
+                  href="https://www.youtube.com/watch?v=wS-S2OwB4JA"
+                  target="_blank"
+                  ><i class="fab fa-youtube"></i
+                ></a>
+              </td>
+            </tr>
+            <tr>
+              <td>2020</td>
+              <td>2º Semestre</td>
+              <td></td>
+              <td>Equipe 5</td>
+              <td>
+                <i class="fab fa-github"></i>
+                <a
+                  href="https://github.com/TechDriversFatec/ProjetoTecSUS"
+                  target="_blank"
+                  >TechDriversFatec/ProjetoTecSUS</a
+                >
+              </td>
+              <td>
+                <a
+                  href="https://www.youtube.com/watch?v=HNsqdAlmaHc"
+                  target="_blank"
+                  ><i class="fab fa-youtube"></i
+                ></a>
+              </td>
+            </tr>
+            <tr>
+              <td>2020</td>
+              <td>2º Semestre</td>
+              <td></td>
+              <td>Equipe 6</td>
+              <td>
+                <i class="fab fa-github"></i>
+                <a
+                  href="https://github.com/TechDriversFatec/PI-GRUPO-6"
+                  target="_blank"
+                  >TechDriversFatec/PI-GRUPO-6</a
+                >
+              </td>
+              <td>
+                <a
+                  href="https://www.youtube.com/watch?v=HD8gxjRXtYY"
+                  target="_blank"
+                  ><i class="fab fa-youtube"></i
+                ></a>
+              </td>
+            </tr>
+            <tr>
+              <td>2020</td>
+              <td>2º Semestre</td>
+              <td></td>
+              <td>Equipe 7</td>
+              <td>
+                <i class="fab fa-github"></i>
+                <a
+                  href="https://github.com/TechDriversFatec/tecsus-DDC"
+                  target="_blank"
+                  >TechDriversFatec/tecsus-DDC</a
+                >
+              </td>
+              <td>
+                <a
+                  href="https://www.youtube.com/watch?v=JguT5Il0980"
+                  target="_blank"
+                  ><i class="fab fa-youtube"></i
+                ></a>
+              </td>
+            </tr>
+            <tr>
+              <td>2020</td>
+              <td>3º Semestre</td>
+              <td></td>
+              <td>Valcode</td>
+              <td>
+                <i class="fab fa-github"></i>
+                <a
+                  href="https://github.com/TechDriversFatec/Valcode"
+                  target="_blank"
+                  >TechDriversFatec/Valcode</a
+                >
+              </td>
+              <td>
+                <a
+                  href="https://www.youtube.com/watch?v=5oxcR_EHQ8g"
+                  target="_blank"
+                  ><i class="fab fa-youtube"></i
+                ></a>
+              </td>
+            </tr>
+            <tr>
+              <td>2020</td>
+              <td>3º Semestre</td>
+              <td></td>
+              <td>Score Wizard</td>
+              <td>
+                <i class="fab fa-github"></i>
+                <a
+                  href="https://github.com/TechDriversFatec/ScoreWizard"
+                  target="_blank"
+                  >TechDriversFatec/ScoreWizard</a
+                >
+              </td>
+              <td>
+                <a
+                  href="https://www.youtube.com/watch?v=_E3wViW6-uo"
+                  target="_blank"
+                  ><i class="fab fa-youtube"></i
+                ></a>
+              </td>
+            </tr>
+            <tr>
+              <td>2020</td>
+              <td>3º Semestre</td>
+              <td></td>
+              <td>Tecno Code</td>
+              <td>
+                <i class="fab fa-github"></i>
+                <a
+                  href="https://github.com/TechDriversFatec/DashboardSPC"
+                  target="_blank"
+                  >TechDriversFatec/DashboardSPC</a
+                >
+              </td>
+              <td>
+                <a
+                  href="https://www.youtube.com/watch?v=WVAs1zB7izc"
+                  target="_blank"
+                  ><i class="fab fa-youtube"></i
+                ></a>
+              </td>
+            </tr>
+            <tr>
+              <td>2020</td>
+              <td>3º Semestre</td>
+              <td></td>
+              <td>Comix Zone</td>
+              <td>
+                <i class="fab fa-github"></i>
+                <a
+                  href="https://github.com/TechDriversFatec/semaforo-consumidor"
+                  >TechDriversFatec/semaforo-consumidor</a
+                >
+              </td>
+              <td>
+                <a
+                  href="https://www.youtube.com/watch?v=wrAXxeplbxk"
+                  target="_blank"
+                  ><i class="fab fa-youtube"></i
+                ></a>
+              </td>
+            </tr>
+            <tr>
+              <td>2020</td>
+              <td>5º Semestre</td>
+              <td></td>
+              <td>Equipe 1</td>
+              <td>
+                <i class="fab fa-github"></i>
+                <a
+                  href="https://github.com/TechDriversFatec/R4UOrg"
+                  target="_blank"
+                  >TechDriversFatec/R4UOrg</a
+                >
+              </td>
+              <td>
+                <a
+                  href="https://www.youtube.com/watch?v=aq_OYyZLyZ8"
+                  target="_blank"
+                  ><i class="fab fa-youtube"></i
+                ></a>
+              </td>
+            </tr>
+            <tr>
+              <td>2020</td>
+              <td>5º Semestre</td>
+              <td></td>
+              <td>Equipe 2</td>
+              <td>
+                <i class="fab fa-github"></i>
+                <a
+                  href="https://github.com/TechDriversFatec/antenas-devops"
+                  target="_blank"
+                  >TechDriversFatec/antenas-devops</a
+                >
+              </td>
+              <td>
+                <a
+                  href="https://www.youtube.com/watch?v=-wOgG0Of_9Y"
+                  target="_blank"
+                  ><i class="fab fa-youtube"></i
+                ></a>
+              </td>
+            </tr>
+            <tr>
+              <td>2020</td>
+              <td>5º Semestre</td>
+              <td></td>
+              <td>Equipe 3</td>
+              <td>
+                <i class="fab fa-github"></i>
+                <a
+                  href="https://github.com/TechDriversFatec/spring-boot-produtora-back-end"
+                  >TechDriversFatec/spring-boot-produtora-back-end</a
+                >
+              </td>
+              <td>
+                <a
+                  href="https://www.youtube.com/watch?v=d_aTQAb6vJw"
+                  target="_blank"
+                  ><i class="fab fa-youtube"></i
+                ></a>
+              </td>
+            </tr>
+            <tr>
+              <td>2021</td>
+              <td>1º Semestre</td>
+              <td></td>
+              <td>Phamtom</td>
+              <td>
+                <i class="fab fa-github"></i>
+                <a
+                  href="https://github.com/TechDriversFatec/helena"
+                  target="_blank"
+                  >TechDriversFatec/helena</a
+                >
+              </td>
+              <td>
+                <a href="https://youtu.be/vMT_ERQ74a0" target="_blank"
+                  ><i class="fab fa-youtube"></i
+                ></a>
+              </td>
+            </tr>
+            <tr>
+              <td>2021</td>
+              <td>1º Semestre</td>
+              <td></td>
+              <td>TheLooksDatabase</td>
+              <td>
+                <i class="fab fa-github"></i>
+                <a
+                  href="https://github.com/TechDriversFatec/julius"
+                  target="_blank"
+                  >TechDriversFatec/julius</a
+                >
+              </td>
+              <td>
+                <a href="https://youtu.be/40meAkkQdNM" target="_blank"
+                  ><i class="fab fa-youtube"></i
+                ></a>
+              </td>
+            </tr>
+            <tr>
+              <td>2021</td>
+              <td>1º Semestre</td>
+              <td></td>
+              <td>SilverCod3</td>
+              <td>
+                <i class="fab fa-github"></i>
+                <a
+                  href="https://github.com/TechDriversFatec/athena"
+                  target="_blank"
+                  >TechDriversFatec/athena</a
+                >
+              </td>
+              <td>
+                <a href="https://youtu.be/E_I9MvQs9BE" target="_blank"
+                  ><i class="fab fa-youtube"></i
+                ></a>
+              </td>
+            </tr>
+            <tr>
+              <td>2021</td>
+              <td>1º Semestre</td>
+              <td></td>
+              <td>CodeYCode</td>
+              <td>
+                <i class="fab fa-github"></i>
+                <a
+                  href="https://github.com/TechDriversFatec/codeycode"
+                  target="_blank"
+                  >TechDriversFatec/codeycode</a
+                >
+              </td>
+              <td>
+                <a href="https://youtu.be/dIepCivYIbk" target="_blank"
+                  ><i class="fab fa-youtube"></i
+                ></a>
+              </td>
+            </tr>
+            <tr>
+              <td>2021</td>
+              <td>2º Semestre</td>
+              <td></td>
+              <td>Tetris</td>
+              <td>
+                <i class="fab fa-github"></i>
+                <a
+                  href="https://github.com/TechDriversFatec/consultCar"
+                  target="_blank"
+                  >TechDriversFatec/consultCar</a
+                >
+              </td>
+              <td>
+                <a href="https://youtu.be/1eohvuqf-XU" target="_blank"
+                  ><i class="fab fa-youtube"></i
+                ></a>
+              </td>
+            </tr>
+            <tr>
+              <td>2021</td>
+              <td>2º Semestre</td>
+              <td></td>
+              <td>Java Pastry</td>
+              <td>
+                <i class="fab fa-github"></i>
+                <a
+                  href="https://github.com/TechDriversFatec/javaPastry"
+                  target="_blank"
+                  >TechDriversFatec/javaPastry</a
+                >
+              </td>
+              <td>
+                <a href="https://youtu.be/MX--ijR84j4" target="_blank"
+                  ><i class="fab fa-youtube"></i
+                ></a>
+              </td>
+            </tr>
+            <tr>
+              <td>2021</td>
+              <td>2º Semestre</td>
+              <td></td>
+              <td>DevStore</td>
+              <td>
+                <i class="fab fa-github"></i>
+                <a
+                  href="https://github.com/TechDriversFatec/devStore"
+                  target="_blank"
+                  >TechDriversFatec/devStore</a
+                >
+              </td>
+              <td>
+                <a href="https://youtu.be/TVGQEZVQC0Y" target="_blank"
+                  ><i class="fab fa-youtube"></i
+                ></a>
+              </td>
+            </tr>
+            <tr>
+              <td>2021</td>
+              <td>3º Semestre</td>
+              <td></td>
+              <td>Equipe 04</td>
+              <td>
+                <i class="fab fa-github"></i>
+                <a
+                  href="https://github.com/TechDriversFatec/PI_3BD_1Sem2021"
+                  target="_blank"
+                  >TechDriversFatec/PI_3BD_1Sem2021</a
+                >
+              </td>
+              <td>
+                <a href="https://youtu.be/DKgOlpNNqrY" target="_blank"
+                  ><i class="fab fa-youtube"></i
+                ></a>
+              </td>
+            </tr>
+            <tr>
+              <td>2021</td>
+              <td>4º Semestre</td>
+              <td></td>
+              <td>Pythaon</td>
+              <td>
+                <i class="fab fa-github"></i>
+                <a
+                  href="https://github.com/TechDriversFatec/pythaon"
+                  target="_blank"
+                  >TechDriversFatec/pythaon</a
+                >
+              </td>
+              <td>
+                <a href="https://youtu.be/yVAXDhanC3g" target="_blank"
+                  ><i class="fab fa-youtube"></i
+                ></a>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </main>
+
+    <footer class="containerFooter">
+      <div class="containerCourses">
+        <div class="footer">
+          <p>FATEC SÃO JOSÉ DOS CAMPOS - PROFº JESSEN VIDAL</p>
+          <hr />
+          <p>Todos os direitos reservados</p>
+        </div>
+        <div class="fatecIcon">
+          <img src="images/fatecicon.jpg" alt="" />
+        </div>
+      </div>
+    </footer>
+
+    <a href="#logo" class="back-to-top">Voltar ao topo</a>
+    <!-- Meu script -->
+    <script src="Javascript/main.js"></script>
+
+    <script src="Javascript/bootstrap.bundle.min.js"></script>
+  </body>
+</html>
