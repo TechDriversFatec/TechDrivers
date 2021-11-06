@@ -35,7 +35,8 @@
 
   ### Backlog do Produto
   
-  ![Sprints](https://user-images.githubusercontent.com/89143350/136666835-d2984727-37f2-45ea-82cf-e261ff57a8a9.jpeg)
+  ![sprints](https://user-images.githubusercontent.com/80860267/140591807-43665a04-82c4-43ee-86af-11a92b9a035e.jpeg)
+
 
   
   ### Backlog das Sprints
