@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Sprint 4 - Inicio dia 07/11/2021 entrega dia 28/11/2021</h1>
+  <h1>Sprint 4 - Início dia 07/11/2021 entrega dia 28/11/2021</h1>
 </div>
 
 <br id="topo">  
