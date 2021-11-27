@@ -89,11 +89,11 @@ https://user-images.githubusercontent.com/89143350/133894617-4ffa7f5f-b4eb-4699-
   
 ## 👩‍💻Equipe
   
-|    Função    | Nome                            |                     GitHub                      |
-| :----------: | :------------------------------ | :----------------------------------------------:|
-| Scrum Master | Icaro Dell Osso Vaz de Carvalho |    [GitHub](https://github.com/Mikkenz)         |
-|   Dev Team   | Juliana Gomes da Silva          |    [GitHub](https://github.com/JulianaGO)       |
-|   Dev Team   | Larissa Aparecida Diniz Silva   |    [GitHub](https://github.com/laaridiniz)      |
-|   Dev Team   | Luiza Ferreira Moreira          |    [GitHub](https://github.com/lluizaferreira)  |
-|   Dev Team   | Victoria Marto Dias             |    [GitHub](https://github.com/DiasVitoria)     |
-|   Dev Team   | Yasmin Aparecida Vieira          |    [GitHub](https://github.com/YasminVieira)    |
+|    Função    | Nome                            |                     GitHub                      |                          LinkedIn                               |
+| :----------: | :------------------------------ | :----------------------------------------------:| :--------------------------------------------------------------:|
+| Scrum Master | Icaro Dell Osso Vaz de Carvalho |    [GitHub](https://github.com/Mikkenz)         | [LinkedIn](https://www.linkedin.com/in/icaro-dell-osso/)        |
+|   Dev Team   | Juliana Gomes da Silva          |    [GitHub](https://github.com/JulianaGO)       | [LinkedIn](https://www.linkedin.com/in/juliana-gomes-silva/)    |
+|   Dev Team   | Larissa Aparecida Diniz Silva   |    [GitHub](https://github.com/laaridiniz)      | [LinkedIn](https://www.linkedin.com/in/larissa-diniz-dev/)      |
+|   Dev Team   | Luiza Ferreira Moreira          |    [GitHub](https://github.com/lluizaferreira)  | [LinkedIn](https://www.linkedin.com/in/devluizamoreira/)        |
+|   Dev Team   | Victoria Marto Dias             |    [GitHub](https://github.com/DiasVitoria)     | [LinkedIn](https://www.linkedin.com/in/diasvictoria/)           |
+|   Dev Team   | Yasmin Aparecida Vieira         |    [GitHub](https://github.com/YasminVieira)    | [LinkedIn](https://www.linkedin.com/in/yasmin-vieira-b68641213/)|
