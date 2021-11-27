@@ -14,11 +14,13 @@
 <span id="sobre">
 
 ## 🚀 Sobre o Projeto
-  > **Status do projeto: Em Andamento**
+  > **Status do projeto: Finalizado**
   
   <p align="justify">O projeto tem como objetivo automatizar a clonagem de repositórios de projetos anteriores e futuros desenvolvidos pelos alunos da Fatec. Com isso, além de conferir domínio desses repositórios à instituição por meio do GitHub, esses projetos serão armazenados e disponibilizados ao público em geral por meio de uma página web, que será administrada unicamente por profissionais ligados à Fatec e autorizados para tanto.</p>
   
+  [Site finalizado do projeto](https://techdriversfatec.github.io/SiteAPI/)
   
+  <p>Para mais informações sobre cada Sprint do projeto, vide relatórios a seguir:</p>
   
 | Sprint | Entrega	| Status | Histórico |
 | :-----: | :-----: | :-----: | :-----: |
