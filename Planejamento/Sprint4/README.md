@@ -7,8 +7,7 @@
 #### Navegador
 * <a href="#objetivo">Objetivo da Sprint 3</a>
 * <a href="#requisitos">Levantamento de requisitos</a>
-* <a href="#clonagem">Clonagem automática com Python</a>
-* <a href="#site">Site em HTML</a>
+* <a href="#manual">Manuais</a>
 * <a href="#burndown">Burndown</a>
 
 <span id="objetivo">
@@ -43,5 +42,15 @@ Para essa sprint não houve uma grande divisão do grupo, mas conseguimos separa
   <p align="justify">
   No inicio da sprint o grupo já estava com os objetivos bem definidos, então para fazr o levantamento de requisitos necessários para a quarta e última sprint foi um processo natural. A maior preocupação foi com a interface gráfica, que foi utilizado o Qt Designer. Para o desenvolvimento do manual foi utilizado o Word e salvo em pdf, para os vídeos do manual serem gravados, foi utilizado a ferramenta Screen Recoder.
   </p>
-  
+    
   → [Voltar ao topo](#topo)
+    
+   <span id="manual">
+     
+ # Manuais 
+     <p></p>
+     
+  → [Voltar ao topo](#topo)
+    
+  ![burndown](https://user-images.githubusercontent.com/80860267/143718802-cec24b4a-54f0-4364-a8e0-e73a6b479dc9.jpg)
+
