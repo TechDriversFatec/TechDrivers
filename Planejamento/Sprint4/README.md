@@ -48,7 +48,8 @@ Para essa sprint não houve uma grande divisão do grupo, mas conseguimos separa
    <span id="manual">
      
  # Manuais 
-     <p></p>
+     <p> Foram desenvolvidos manuais de instruções,em texto e em vídeo, para auxiliar o usuário em questão do uso das funcionalidades do projeto. No manual escrito, temos o passo a passo de como utilizar a interface gráfica para a realização da clonagem dos projetos desejados, como realizar a clonagem automática e como é o funcionamento do site desenvolvido. Nos vídeos, temos a explicação visual do funcionamento das funcionalidades. </p>[Manual_Techdrivers.pdf](https://github.com/TechDriversFatec/TechDrivers/files/7612295/Manual_Techdrivers.pdf)
+
      
   → [Voltar ao topo](#topo)
     
