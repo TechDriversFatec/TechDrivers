@@ -48,7 +48,7 @@
 
 ![Sprint3](https://user-images.githubusercontent.com/80860267/140592826-6e26fa8d-5b27-453c-84ae-9cf672e005ba.png)
   
-![Sprint4](https://user-images.githubusercontent.com/80860267/140592820-2a595852-5791-4822-a69f-e526ce15eb6b.png)
+![Sprint4](https://user-images.githubusercontent.com/80860267/143719824-7a89d72d-f8d7-4e43-8df7-22a8ccfd75a3.png)
 
 
 </div>
