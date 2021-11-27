@@ -60,7 +60,7 @@ Para essa sprint não houve uma grande divisão do grupo, mas conseguimos separa
   # 📉 Burndown
     
    <p>O gráfico de Burndown é um método de visualização do andamento da sprint muito comum nos métodos ágeis. Ele possui a vantagem de permitir a rápida visualização, por todo o time de desenvolvimento, do andamento das atividades, sem necessariamente entrar nas histórias de usuário como no backlog da sprint. No nosso gráfico de Burndown está a nossa divisão de duas equipes que ficaram responsáveis por duas partes do projeto (Front-end e Back-end).
-      O back end ficou responsável por desenvolver a interface gráfica para a realização da clonagem automática dos projetos de API, e o front end ficou responsável pela finalização da página web. Em conjunto, todos os membros da equipe foram responsáveis pelo desenvolvimento do manual de instrução e gravação dos vídeos de instrução. </p>
+      O Back end ficou responsável por desenvolver a interface gráfica para a realização da clonagem automática dos projetos de API, e o Front end ficou responsável pela finalização da página web. Em conjunto, todos os membros da equipe foram responsáveis pelo desenvolvimento do manual de instrução e gravação dos vídeos de instrução. </p>
      
  ![burndown](https://user-images.githubusercontent.com/80860267/143718802-cec24b4a-54f0-4364-a8e0-e73a6b479dc9.jpg)
 
