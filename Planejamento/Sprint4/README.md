@@ -47,13 +47,24 @@ Para essa sprint não houve uma grande divisão do grupo, mas conseguimos separa
     
    <span id="manual">
      
- # Manuais 
+ # 📖 Manuais 
    <p>Foram desenvolvidos manuais de instruções,em texto e em vídeo, para auxiliar o usuário em questão do uso das funcionalidades do projeto. No manual escrito, temos o passo a passo de como utilizar a interface gráfica para a realização da clonagem dos projetos desejados, como realizar a clonagem automática e como é o funcionamento do site desenvolvido. Nos vídeos, temos a explicação visual do funcionamento das funcionalidades. </p>
      
   [Download do ManualTechdrivers.pdf](https://github.com/TechDriversFatec/TechDrivers/files/7612295/Manual_Techdrivers.pdf)
 
      
   → [Voltar ao topo](#topo)
+        
+   <span id="burndown">
+  
+  # 📉 Burndown
     
-  ![burndown](https://user-images.githubusercontent.com/80860267/143718802-cec24b4a-54f0-4364-a8e0-e73a6b479dc9.jpg)
+   <p>O gráfico de Burndown é um método de visualização do andamento da sprint muito comum nos métodos ágeis. Ele possui a vantagem de permitir a rápida visualização, por todo o time de desenvolvimento, do andamento das atividades, sem necessariamente entrar nas histórias de usuário como no backlog da sprint. No nosso gráfico de Burndown está a nossa divisão de duas equipes que ficaram responsáveis por duas partes do projeto (Front-end e Back-end).</p>
+     
+ ![burndown](https://user-images.githubusercontent.com/80860267/143718802-cec24b4a-54f0-4364-a8e0-e73a6b479dc9.jpg)
+
+ ![burndown2](https://user-images.githubusercontent.com/80860267/143719556-fed9e4c6-44f9-463b-b824-ab954033daf2.jpeg)
+
+     
+  → [Voltar ao topo](#topo)
 
