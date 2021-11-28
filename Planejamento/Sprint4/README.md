@@ -29,14 +29,10 @@ Para esta sprint não houve uma grande divisão do grupo, mas conseguimos separa
   
 * Criação do manual de instruções com passo a passo detalhado dos processos;
   
-  
-  <div align="justify">
-    
-  </div>
 
 → [Voltar ao topo](#topo)
   
-  ------------------------------------------------------------------------------
+ 
   <span id="requisitos">
 
 # 📝Levantamento de Requisitos 
