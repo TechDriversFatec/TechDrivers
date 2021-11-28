@@ -68,6 +68,11 @@ Para esta sprint não houve uma grande divisão do grupo, mas conseguimos separa
      
   [Download do ManualTechdrivers.pdf](https://github.com/TechDriversFatec/TechDrivers/files/7612295/Manual_Techdrivers.pdf)
 
+  [Manual em vídeo do Site](https://youtu.be/DV-dKaON3MU)
+     
+  [Manual em vídeo da Clonagem](https://youtu.be/h6XxaiR124c)
+     
+  [Manual em vídeo da Interface Gráfica](https://youtu.be/l5Hon-ichZ8)
      
   → [Voltar ao topo](#topo)
         
